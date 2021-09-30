@@ -8,10 +8,10 @@
 
 <div id="stats"><br>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorHenriq&show_icons=true&theme=midnight-purple"/>
-
+<br>
 <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
-
+<br>
 <hr>
 
 ![Alt Text](https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif)
