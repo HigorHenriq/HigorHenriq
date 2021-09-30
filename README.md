@@ -11,8 +11,6 @@
 <br>
 <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
-<br>
-<p>
 <hr>
 
 ![Alt Text](https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif)
