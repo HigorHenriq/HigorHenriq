@@ -6,11 +6,11 @@
 
 <br>
 
-<div><br>
+<div>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorHenriq&show_icons=true&theme=midnight-purple"/>
-<br>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
+
 <hr>
 
 ![Alt Text](https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif)
@@ -36,9 +36,7 @@
 
 <div><br>
 <h2 align="center" style="color: #B993D6">Áreas de Interesse
-
 <p><br>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -48,16 +46,12 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
 </div>
 
 <div><br>
 <h2 align="center" color="white" style="color: #B993D6">Outros
-
 <p><br>
-
 <img src="https://aleen42.github.io/badges/src/photoshop.svg">
 
 <img src="https://aleen42.github.io/badges/src/after_effects.svg">
-
 </div>
