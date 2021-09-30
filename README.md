@@ -7,9 +7,9 @@
 <br>
 
 <div>
-<img width="300" height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorHenriq&show_icons=true&theme=midnight-purple"/>
+<img width="350" height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorHenriq&show_icons=true&theme=midnight-purple"/>
 
-<img width="300" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img width="350" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
 <h2 align="center" align="left" style="color: #B993D6"> <Áreas de Interesse/>
