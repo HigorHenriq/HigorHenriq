@@ -28,9 +28,7 @@
 </div>
 
 <hr>
-
 <h2 align="center" align="left"> 🕛 🕐 🕑 🕒 🕓 🕔 Learning Process 🕕 🕖 🕗 🕘 🕙 🕚
-
 <hr>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -43,4 +41,6 @@
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-![GIF](https://media.giphy.com/media/OmxPCq8ATFXig/giphy.gif)
+  <p>
+    
+![GIF](https://media.giphy.com/media/bpX9AyM0ULY4JFmG1l/giphy.gif)
