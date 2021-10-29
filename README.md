@@ -1,9 +1,12 @@
 ## Salve Salve, meu nome é Higor Henrique ✌️
 
 <br>
+
 ![GIF](https://media.giphy.com/media/bpX9AyM0ULY4JFmG1l/giphy.gif)
 
--   🎯 Cursando atualmente no SerraTec 🙏
+<br>
+
+-   Cursando atualmente no SerraTec 🙏
 
 <br>
 
