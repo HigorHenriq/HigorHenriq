@@ -1,6 +1,7 @@
 ## Salve Salve, meu nome é Higor Henrique ✌️
 
 <br>
+![GIF](https://media.giphy.com/media/bpX9AyM0ULY4JFmG1l/giphy.gif)
 
 -   🎯 Cursando atualmente no SerraTec 🙏
 
@@ -41,6 +42,4 @@
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-  <p>
-    
-![GIF](https://media.giphy.com/media/bpX9AyM0ULY4JFmG1l/giphy.gif)
+
