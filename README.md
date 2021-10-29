@@ -1,4 +1,4 @@
-## Salve Salve, meu nome é Higor Henrique ✌️
+## Olá, meu nome é Higor Henrique ✋
 
 <br>
 
