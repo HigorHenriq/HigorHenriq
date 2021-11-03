@@ -1,9 +1,9 @@
-## Olá, meu nome é Higor Henrique ✋
+## <h1 align="center">Olá, meu nome é Higor Henrique ✋</h1>
 
 <br>
-
-![GIF](https://media.giphy.com/media/bpX9AyM0ULY4JFmG1l/giphy.gif)
-
+<div align = "center">
+<img src="https://media.giphy.com/media/bpX9AyM0ULY4JFmG1l/giphy.gif"/>
+</div>
 <br>
 
 
@@ -13,10 +13,9 @@
 <img width="390" height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorHenriq&show_icons=true&theme=react"/>
 
 <img width="390" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=react&include_all_commits=true&count_private=true"/>
-
 </div>
 
-<div id="contact"><p><h2 align="left" style="color: #B993D6">
+<div id="contact"><p><h2 align="right" style="color: #B993D6">
 <a href="https://github.com/HigorHenriq" alt="github" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
