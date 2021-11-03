@@ -6,7 +6,6 @@
 
 <br>
 
--   Cursando atualmente no SerraTec 🙏
 
 <br>
 
