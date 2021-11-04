@@ -9,10 +9,10 @@
 
 <br>
 
-<div>
-<img width="390" height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorHenriq&show_icons=true&theme=react"/>
+<div align = "center">
+<img width="390" height="180em" src="https://github-readme-stats.vercel.app/api?username=HigorHenriq&show_icons=true&theme=github_dark"/>
 
-<img width="390" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=react&include_all_commits=true&count_private=true"/>
+<img width="390" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorHenriq&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div id="contact"><p><h2 align="right" style="color: #B993D6">
