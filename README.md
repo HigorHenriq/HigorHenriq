@@ -1,4 +1,4 @@
-## <h1 align="center">Olá, meu nome é Higor Henrique ✋</h1>
+## <h1 align="center">✋</h1>
 
 <br>
 <div align = "center">
